@@ -1,7 +1,7 @@
 === Search box on Navigation Menu ===
 
-Contributors: re_enter_rupok (Nazmul Hasan Rupok)
-Donate link: http://store.zovoxz.com
+Contributors: re_enter_rupok
+Donate link: http://www.rupok.me/donate
 Tags: menu, search, search box, search box on menu, navigation menu
 Requires at least: 3.0
 Tested up to: 3.5.1
@@ -24,12 +24,15 @@ This plugin will add the default search box on main navigation menu that will sa
 
 
 Q: Is it will add the default search box of my theme?
+
 A: Yes, This plugin will just add your default search box on navigation menu.
 
 Q: Can I able to change the style of the search box?
+
 A: Yes you can! But you have to just change the style of your theme's search style (may be on search.php and style.css)
 
 Q: Is it flexible to add on any theme?
+
 A: This will flexibly add search box on those theme which dosen't have search box on navigation menu.
 
 
