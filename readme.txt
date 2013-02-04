@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
 This plugin will add the default search box on main navigation menu that will save the space and flexibly fit with the menu. 
-
+Here you can get more information about this plugin with screenshots - http://www.rupok.me/projects
 
 == Installation ==
 
@@ -39,7 +39,7 @@ A: This will flexibly add search box on those theme which dosen't have search bo
 == Screenshots ==
 
 1. When you activate this plugin you will get the default search box of your theme on the main navigation menu. 
-
+2. Here you can get more information about this plugin with screenshots - http://www.rupok.me/projects
 
 == Changelog ==
 
